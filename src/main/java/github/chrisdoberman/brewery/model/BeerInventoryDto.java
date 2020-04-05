@@ -1,4 +1,4 @@
-package github.chrisdoberman.beer.inventory.service.web.model;
+package github.chrisdoberman.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

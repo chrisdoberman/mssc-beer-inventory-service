@@ -2,7 +2,7 @@ package github.chrisdoberman.beer.inventory.service.web.controllers;
 
 import github.chrisdoberman.beer.inventory.service.repositories.BeerInventoryRepository;
 import github.chrisdoberman.beer.inventory.service.web.mappers.BeerInventoryMapper;
-import github.chrisdoberman.beer.inventory.service.web.model.BeerInventoryDto;
+import github.chrisdoberman.brewery.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

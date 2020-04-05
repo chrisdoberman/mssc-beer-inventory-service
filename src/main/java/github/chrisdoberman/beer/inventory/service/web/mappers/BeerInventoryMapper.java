@@ -1,7 +1,7 @@
 package github.chrisdoberman.beer.inventory.service.web.mappers;
 
 import github.chrisdoberman.beer.inventory.service.domain.BeerInventory;
-import github.chrisdoberman.beer.inventory.service.web.model.BeerInventoryDto;
+import github.chrisdoberman.brewery.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 /**

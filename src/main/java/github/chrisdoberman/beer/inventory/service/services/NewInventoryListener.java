@@ -3,7 +3,7 @@ package github.chrisdoberman.beer.inventory.service.services;
 import github.chrisdoberman.beer.inventory.service.config.JmsConfig;
 import github.chrisdoberman.beer.inventory.service.domain.BeerInventory;
 import github.chrisdoberman.beer.inventory.service.repositories.BeerInventoryRepository;
-import github.chrisdoberman.common.events.NewInventoryEvent;
+import github.chrisdoberman.brewery.model.events.NewInventoryEvent;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.jms.annotation.JmsListener;
